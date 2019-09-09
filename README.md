@@ -1,11 +1,3 @@
----
-title: "README"
-output:
-  pdf_document: default
-  html_document:
-    keep_md: yes
----
-
 ## Files Description
 The repository includes the following files:
 

@@ -1,17 +1,3 @@
----
-title: "CodeBook"
-author: "Lucas Moraes"
-date: "09/09/2019"
-output:
-  pdf_document: default
-  html_document:
-    keep_md: yes
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Project Description
 The original dataset used for this project is the ***Human Activity Recognition Using Smartphones Data Set*** from the UCI Machine Learning Repository. In the experiment, each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
